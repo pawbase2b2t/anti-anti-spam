@@ -1,2 +1,4 @@
 # removes messages from a list of common spammers
 ^<Ringspammer>
+^<toBevalcnE>
+^<2b2tGoy>

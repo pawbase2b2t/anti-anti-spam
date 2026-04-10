@@ -1,4 +1,11 @@
 # removes little annoying ass msgs (such as rusher announcer, and peoples random spams)
+
+# rusher announcer
 [^>]+> > \S+ just .+!
+
+# peoples annoying ass spammers
 <hexahexa> > say no to :3 spam
 <Yxiao_SecretGlow> hello Wishing everyone a calm and peaceful chat, and hoping everyone's having a good time.
+
+# all the moomoo announcer style
+^<.+> >.*!\w+.*$

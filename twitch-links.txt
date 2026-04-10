@@ -1,0 +1,3 @@
+# removes peoples twitch links (looking at you bug)
+
+^<.+> >.*twitch\.tv/\w+.*$

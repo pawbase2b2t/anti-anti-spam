@@ -1,0 +1,6 @@
+# removes info bot messages
+
+# tepixes bots
+^<.+> .+( joined on | Last played on | played for a total of | has a K\/D ratio of | last died | is not a valid player)
+# moomoo
+^<.+> (I've never seen |I first saw |I saw |2b2t queue:|Player not found|[A-Za-z0-9_]+: \d+ days|I've counted)

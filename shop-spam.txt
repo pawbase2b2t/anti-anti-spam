@@ -1,0 +1,11 @@
+# removes ALL shop spam and the stupid 888 rusher code
+
+# general shop spam
+\('\s*:/\s*/'popshop'\s*,\s*'gg'\s*\)\s*Secure,\s*fast and trusted by everyone!\s*[0-9a-f]{6}
+^<.+> .*"[Dd][Ii][Ss][Cc][Oo][Rr][Dd]".+"[Gg][Gg]".+"[Cc][Hh][Ee][Ss][Tt][Ss][Hh][Oo][Pp]".*$
+
+# random facts they shit out
+^<.+> .+\. [0-9a-f]{6}$
+
+# rusher 888
+^<.+> .*(rusher(hack|client)|888).*(rusher(hack|client)|888).*$
