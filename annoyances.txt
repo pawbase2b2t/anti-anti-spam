@@ -1,0 +1,4 @@
+# removes little annoying ass msgs (such as rusher announcer, and peoples random spams)
+[^>]+> > \S+ just .+!
+<hexahexa> > say no to :3 spam
+<Yxiao_SecretGlow> hello Wishing everyone a calm and peaceful chat, and hoping everyone's having a good time.
