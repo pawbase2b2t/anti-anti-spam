@@ -1,0 +1,2 @@
+^<[a-zA-Z0-9_]+> >? ?(?:bep|:3)$
+^<\w*[Aa]rmor[Bb]ars?\w*>\s*ok$
