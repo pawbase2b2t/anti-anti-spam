@@ -1,0 +1,2 @@
+# removes messages from a list of common spammers
+^<Ringspammer>
