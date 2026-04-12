@@ -3,6 +3,7 @@
 # general shop spam
 \('\s*:/\s*/'popshop'\s*,\s*'gg'\s*\)\s*Secure,\s*fast and trusted by everyone!\s*[0-9a-f]{6}
 ^<.+> .*"[Dd][Ii][Ss][Cc][Oo][Rr][Dd]".+"[Gg][Gg]".+"[Cc][Hh][Ee][Ss][Tt][Ss][Hh][Oo][Pp]".*$
+^<.+> >.*'popshop'.*'gg'.*Secure, fast and trusted by everyone!\s*[0-9a-f]{6}$
 
 # random facts they shit out
 ^<.+> .+\. [0-9a-f]{6}$
