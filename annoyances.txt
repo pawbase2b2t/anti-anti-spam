@@ -9,3 +9,6 @@
 
 # all the moomoo announcer style
 ^<.+> >.*!\w+.*$
+
+# this shit piss me off
+^<Astyr100> NEE
