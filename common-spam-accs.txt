@@ -9,3 +9,4 @@
 ^<PenarJorker>
 ^<Timesplitter10>
 ^<Bobojir>
+^<Sikkimo>
