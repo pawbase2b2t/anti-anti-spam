@@ -5,5 +5,5 @@
 # moomoo
 ^<.+> (I've never seen |I first saw |I saw |2b2t queue:|Player not found|[A-Za-z0-9_]+: \d+ days|I've counted)
 
-# this guy (temp fix it just checks for greentext so fals pos will happen :(
-^<Dormy> >
+# this guys stupid "script" as he calls it
+^<Dormy> >.*\[[a-z0-9]{8}\]$
