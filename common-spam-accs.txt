@@ -4,6 +4,7 @@
 ^<2b2tGoy>
 ^<froggy_exe>
 ^<erlmag>
+^<TimeDuper>
 
 # stupid things i think they 888 idfk
 ^<PenarJorker>
