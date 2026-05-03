@@ -6,6 +6,9 @@
 ^<erlmag>
 ^<TimeDuper>
 
+# this guy fucking sucks
+^<JSecurity>
+
 # stupid things i think they 888 idfk
 ^<PenarJorker>
 ^<Timesplitter10>
