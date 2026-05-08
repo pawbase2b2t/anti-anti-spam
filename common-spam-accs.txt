@@ -5,6 +5,7 @@
 ^<froggy_exe>
 ^<erlmag>
 ^<TimeDuper>
+^<SwisherSquirtin>
 
 # this guy fucking sucks
 ^<JSecurity>
