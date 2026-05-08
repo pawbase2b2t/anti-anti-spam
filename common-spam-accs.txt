@@ -6,6 +6,7 @@
 ^<erlmag>
 ^<TimeDuper>
 ^<SwisherSquirtin>
+^<87acc>
 
 # this guy fucking sucks
 ^<JSecurity>
