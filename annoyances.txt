@@ -16,3 +16,6 @@
 
 # rusher code 888 stupid
 ^<.+> (?=.*888)(?=.*(?i:code|promo)).*$
+
+# fix chunk loading
+(?i)fix chunk loading
