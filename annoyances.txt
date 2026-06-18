@@ -21,4 +21,5 @@
 (?i)fix chunk loading
 
 # meteor on crack spam
-^<.+> Meteor on crack!$
+(?i)^<.+> Meteor on crack!$
+(?i)^<.+> Meteor on top!$
