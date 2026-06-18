@@ -19,3 +19,6 @@
 
 # fix chunk loading
 (?i)fix chunk loading
+
+# meteor on crack spam
+^<.+> Meteor on crack!$
