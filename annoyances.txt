@@ -7,8 +7,6 @@
 <hexahexa> > say no to :3 spam
 <Yxiao_SecretGlow> hello Wishing everyone a calm and peaceful chat, and hoping everyone's having a good time.
 
-# all the moomoo announcer style
-^<.+> >.*!\w+.*$
 
 # this shit piss me off
 ^<Astyr100> NEE
